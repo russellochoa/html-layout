@@ -1,0 +1,51 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+.blue {
+	width: 33%;
+	height: 100%;
+	background-color: #4a90e2;
+	float: left;
+}
+
+.aqua {
+	width: 33%;
+	height: 100%;
+	background-color: #50e3c2;
+	float: left;
+}
+
+.last {
+	width: 33%;
+	height: 100%;
+	float: left;
+
+}
+
+.green {
+	width: 100%;
+	height: 70%;
+	background-color: #b8e986;
+	float: left;
+}
+
+
+.red {
+	width: 100%;
+	height: 30%;
+	background-color: #d0021b;
+	clear: both;
+}
+
+
+.text {
+	height: 100%;
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	margin: auto;
+}
